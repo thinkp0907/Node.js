@@ -1,0 +1,12 @@
+2021-02-08 15:10:30 [LogTestSys] error: uncaughtException: Cannot read property 'Console' of undefined
+TypeError: Cannot read property 'Console' of undefined
+    at Object.<anonymous> (C:\Users\Chorlock\Documents\Node.js\config\logger.js:73:38)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (C:\Users\Chorlock\Documents\Node.js\logtest.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)

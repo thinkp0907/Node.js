@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\Chorlock\\Documents\\Node.js\\logs\\.f77e6bfcf7b676e6341bfa1658d5f951af1cef5b-audit.json",
+    "files": [
+        {
+            "date": 1612764629979,
+            "name": "C:\\Users\\Chorlock\\Documents\\Node.js\\logs\\2021-02-08.error.log",
+            "hash": "f29bad0d9e68e79944bc52d78a102f9f"
+        }
+    ]
+}
